@@ -19,11 +19,10 @@
 * 🌐 Fascinado pela **comunidade open source** e pela constante evolução do desenvolvimento web.
 * 🌱 Sempre **buscando aprender** novas tecnologias e aprimorar meu conhecimento.
 
-
 **Vamos nos conectar:**
 
 * 💼 Confira meu portfólio em:
-  [https://chavatte.vercel.app/projects](https://chavatte.vercel.app/projects) 
+[https://chavatte.vercel.app/projects](https://chavatte.vercel.app/projects) 
 * 📫 Entre em contato comigo: chavatte@duck.com
 
 **Minhas Ferramentas e Tecnologias:**
@@ -35,8 +34,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
+<br>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/sql-logo.svg" alt="sql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -45,17 +46,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+**Conecte-se comigo:**
 
-
-**Me encontre nas redes:**
 <p align="center">
-<a href="https://codepen.io/https://codepen.io/chavatte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/chavatte/" height="30" width="40" /></a>
-<a href="https://twitter.com/chavatte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chavatte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/jcchavatte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jcchavatte/" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/jc.chavatte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/jc.chavatte" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/jcchavatte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jcchavatte" height="30" width="40" /></a>
+  <a href="https://codepen.io/chavatte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/chavatte/" height="30" width="40" /></a>
+  <a href="https://gitlab.com/chavatte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="40" /></a>
+  <a href="https://keybase.io/chavatte" target="blank"><img align="center" src="https://keybase.io/images/icons/icon-keybase-logo-64@2x.png" alt="Keybase" height="30" width="40" /></a>
 </p>
 
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavatte&show_icons=true&locale=pt-br" alt="chavatte" /></p>
+
