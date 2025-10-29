@@ -24,8 +24,7 @@ _____________|','   ///_/-------------/   |                 \_/_________________
 
 </pre>
 
-
-<h1 align="center">João Carlos Chavatte</h1>
+<h1 align="center">Hi, I'm João Carlos Chavatte 👋</h1>
 
 <h2 align="center">Full-Stack Web Developer | Information Security Consultant | Open Source Enthusiast</h2>
 
@@ -33,14 +32,33 @@ _____________|','   ///_/-------------/   |                 \_/_________________
   <img src="https://komarev.com/ghpvc/?username=chavatte&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://codepen.io/chavatte/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" title="CodePen" />
+  </a>
+  <a href="https://gitlab.com/chavatte" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="40" title="GitLab" />
+  </a>
+  <a href="https://keybase.io/chavatte" target="_blank">
+    <img align="center" src="https://keybase.io/images/icons/icon-keybase-logo-64@2x.png" alt="Keybase" height="30" width="40" title="Keybase" />
+  </a>
+</p>
+
 ---
 
 ## About Me
 
-I'm a passionate full-stack web developer with a strong foundation in cybersecurity principles. I specialize in building robust and scalable web applications with a focus on security and reliability. I'm currently expanding my expertise in React, Node.js, TypeScript, Python, and Java, while staying up-to-date with the latest advancements in web development and cybersecurity. I'm an active member of the open-source community and a continuous learner, always eager to explore new technologies and enhance my skills.
+I am a **Full Stack Developer** with deep, demonstrated expertise in **Backend Engineering**, **Cybersecurity**, and **Artificial Intelligence**.
 
+My work bridges the gap between secure, scalable backend architecture and applied, intelligent solutions. I am a distinguished graduate of the **Hackers do Bem (Hackers from Brazil)** program, the largest cybersecurity training initiative in Brazil. This journey culminated in a **480-hour Cybersecurity Residency** (Red Team), where I conceived and developed the **[ParrotOS-WSL-Installer](https://github.com/chavatte/ParrotOS-WSL-Installer)**.
 
-Explore my portfolio: [https://chavatte.vercel.app/](https://chavatte.vercel.app/)
+My specialties are not just theoretical. I build high-impact applications, including:
+* 🔐 **Cybersecurity:** Developing security tools and applying Red Team tactics.
+* 💻 **Backend:** Architecting robust systems like **[VirtusBank](https://github.com/chavatte/virtusbank)**.
+* 🤖 **AI:** Creating generative AI applications like the **[Book Generator AI](https://portfolio.chavatte.online/projects/bookgeneratorai)** (Gemini) and holding certifications like the **Microsoft Azure AI-900**.
+* 🔗 **Blockchain:** Building DApps like **[CrypTwitter](https://cryptwitter.chavatte.online)** (Solidity/Next.js).
+
+---
 
 ## Skills
 
@@ -83,55 +101,97 @@ Explore my portfolio: [https://chavatte.vercel.app/](https://chavatte.vercel.app
   </a>
 </p>
 
-## Connect
+---
 
-<p align="center">
-  <a href="https://codepen.io/chavatte/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" title="CodePen" />
-  </a>
-  <a href="https://gitlab.com/chavatte" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="40" title="GitLab" />
-  </a>
-  <a href="https://keybase.io/chavatte" target="_blank">
-    <img align="center" src="https://keybase.io/images/icons/icon-keybase-logo-64@2x.png" alt="Keybase" height="30" width="40" title="Keybase" />
-  </a>
-</p>
+## Certifications & Training
 
-## Certifications 
+My skills are validated by industry-leading certifications and intensive bootcamps.
 
-* **Cisco** 
-    * Cybersecurity Essentials
-    * CCNA1: Introduction to Networks
-    * JavaScript Essentials 1 and 2
-    * Introduction to Packet Tracer
-    * Introduction to Cybersecurity
-    * Networking Basics
-    * Network Defense
-    * CyberOps Associate
-    * Cybersecurity Analyst Career
-* **FreeCodeCamp**
-    * Responsive Web Design
-    * JavaScript Algorithms and Data Structures
-    * Back End Development and APIs
-* **Other Institutions**
-    * Web Full Stack Degree (ADA)
-    * Workshop: React Dev Week (EBAC)
-    * Cyber Academy 2024 (FEBRABAN)
-    * Hackers Do Bem - Nivelamento, Básico, Fundamental, Especialização Red Team, Residência Tecnológica (currently)
-* **Bootcamps**
-    * Backend com Java
-    * Desenvolvimento Java com IA
-    * Python AI Backend Developer
-    * Azure AI Fundamentals
-    * Fundamentos de IA Generativa e Claude 3
-    * Cibersegurança #2
-    * AI for Tech - GitHub Copilot
+<details>
+  <summary><strong>🔐 Cybersecurity & Networking</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Hackers do Bem (MCTI/RNP/SENAI)</strong> - <em>Distinguished Graduate</em>
+      <ul>
+        <li>Nivelamento (80h)</li>
+        <li>Básico (64h)</li>
+        <li>Fundamental (96h)</li>
+        <li>Especialização Red Team (80h)</li>
+        <li><strong>Residência em Cibersegurança (480h)</strong></li>
+      </ul>
+    </li>
+    <li><strong>Cisco Certifications</strong>
+      <ul>
+        <li>CyberOps Associate (70h)</li>
+        <li>Network Defense</li>
+        <li>Cybersecurity Analyst Career</li>
+        <li>CCNA1: Introduction to Networks (70h)</li>
+        <li>Cybersecurity Essentials</li>
+      </ul>
+    </li>
+    <li><strong>FEBRABAN</strong>
+      <ul>
+        <li>Cyber Academy 2024</li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
+<details>
+  <summary><strong>🤖 Cloud & Artificial Intelligence</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Microsoft Certified: Azure AI Fundamentals (AI-900)</strong></li>
+    <li><strong>Bootcamp: AWS Generative AI & Claude 3</strong> (AWS/DIO)</li>
+    <li><strong>Bootcamp: AI Agents</strong> (Microsoft/DIO)</li>
+    <li><strong>Bootcamp: AI for Tech - GitHub Copilot</strong> (Microsoft/DIO)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>💻 Backend & Programming</strong></summary>
+  <br>
+  <ul>
+    <li><strong>freeCodeCamp (300h each)</strong>
+      <ul>
+        <li>Back End Development and APIs</li>
+        <li>JavaScript Algorithms and Data Structures</li>
+      </ul>
+    </li>
+    <li><strong>Bootcamp: Java Cloud Native</strong> (Bradesco/DIO)</li>
+    <li><strong>Bootcamp: Backend com Java</strong> (Santander/DIO)</li>
+    <li><strong>Bootcamp: Python AI Backend Developer</strong> (Vivo/DIO)</li>
+    <li><strong>Cisco</strong>
+      <ul>
+        <li>JavaScript Essentials 1 & 2</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🎨 Frontend & Full Stack</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Web Full Stack Degree (1160h)</strong> (Lets Code/Ada)</li>
+    <li><strong>freeCodeCamp: Responsive Web Design (300h)</strong></li>
+    <li><strong>Workshop: React Dev Week</strong> (EBAC)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🔗 Blockchain & Web3</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Desvendando a Blockchain</strong> (SENAI)</li>
+  </ul>
+</details>
+
+---
 
 ## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavatte&show_icons=true&locale=pt-br" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=chavatte&show_icons=true&locale=pt-br" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=chavatte&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=chavatte&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak
