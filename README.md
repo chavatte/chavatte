@@ -188,10 +188,3 @@ My skills are validated by industry-leading certifications and intensive bootcam
 </details>
 
 ---
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavatte&show_icons=true&locale=pt-br" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chavatte&show_icons=true&locale=pt-br" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=chavatte&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak
