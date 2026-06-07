@@ -162,6 +162,26 @@ status: actively_hunting
 
 </details>
 
+---
+
+## 📡 LIVE TELEMETRY [SIGNAL INTERCEPT]
+<details>
+<summary>📊 stream_top_intel</summary>
+
+```bash
+> fetching real-time data from Enoch Engine...
+> connection established. rendering top_articles_view...
+```
+<p align="center">
+  <a href="https://chavatte.vercel.app/articles" target="_blank">
+    <img src="https://api-chavatte-online.fly.dev/svg" alt="Top 5 Security Articles" />
+  </a>
+</p>
+
+</details>
+
+---
+
 ## 🕶️ STEALTH LINKS
 <details>
 <summary>🔗 reveal_endpoints</summary>
