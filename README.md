@@ -177,6 +177,14 @@ status: actively_hunting
     <img src="https://api-chavatte-online.fly.dev/svg" alt="Top 5 Security Articles" />
   </a>
 </p>
+<p align="center">
+  <a href="https://api-chavatte-online.fly.dev/rss" target="_blank">
+    <img src="https://img.shields.io/badge/RSS-SUBSCRIBE_FEED-FF6600?style=for-the-badge&logo=rss&logoColor=white" alt="Assinar RSS Feed" />
+  </a>
+  <a href="https://api-chavatte-online.fly.dev/firewall-ips" target="_blank">
+    <img src="https://img.shields.io/badge/SOC-FIREWALL_BLOCKLIST-red?style=for-the-badge&logo=security&logoColor=white" alt="Firewall Blocklist" />
+  </a>
+</p>
 
 </details>
 
@@ -227,6 +235,9 @@ most vulnerabilities start here.
 > .##.###. .##..... .##.#### .##.##.. .###.#.# .###.##.
 ```
 
+> `_connection_established:` [`[ ACCESS_MEFYSTO_CORE ]`](https://mefysto.wordpress.com)
+
+
 </details>
 
 ---
@@ -272,6 +283,8 @@ only results.
 > if you think you found everything...
 > you didn't.
 ```
+
+> `[ SOC_ALERT ] : UNAUTHORIZED_PROBE_LOGGED`
 
 </details>
 
