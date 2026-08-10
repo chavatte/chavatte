@@ -141,7 +141,7 @@ status: actively_hunting
 ---
 
 ## ⚔️ DEPLOYED ASSETS
-<details>
+<details open>
 <summary>⚙️ list_active_assets</summary>
 
 ```json
@@ -194,9 +194,16 @@ status: actively_hunting
 <details>
 <summary>🔗 reveal_endpoints</summary>
 
-<a href="https://github.com/chavatte/virtusbank" title="VirtusBank">‎</a>
-<a href="https://github.com/chavatte/ParrotOS-WSL-Installer" title="ParrotOS WSL">‎</a>
-<a href="https://github.com/chavatte/Enoch-Engine" title="Enoch-Engine API">‎</a>
+
+```bash
+> [SYS.LOG] Discovered direct repository access vectors:
+```
+
+- 📡 [VirtusBank_Core](https://www.google.com/search?q=https://github.com/chavatte/virtusbank)
+    
+- 📡 [ParrotOS_WSL_Framework](https://www.google.com/search?q=https://github.com/chavatte/ParrotOS-WSL-Installer)
+    
+- 📡 [Enoch_Engine_API](https://www.google.com/search?q=https://github.com/chavatte/Enoch-Engine)
 
 </details>
 
@@ -282,10 +289,12 @@ only results.
 ```bash
 > if you think you found everything...
 > you didn't.
+> the real test begins at the source:
 ```
-
-> `[ SOC_ALERT ] : UNAUTHORIZED_PROBE_LOGGED`
 
 </details>
 
 ---
+
+> ⚡ **[INITIATE_CONNECTION: Chavatte](https://www.google.com/search?q=https://chavatte.vercel.app/)**
+
