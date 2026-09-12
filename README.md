@@ -471,7 +471,7 @@ RESEARCH AREAS
 
 ---
 
-# 📊 CONTRIBUTION MATRIX
+# 📊 ACTIVITY MATRIX
 
 <details open>
 <summary>🛰️ monitor /ghost_node_activity</summary>
