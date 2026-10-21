@@ -8,29 +8,27 @@
   <img src="https://komarev.com/ghpvc/?username=chavatte&label=ENTITIES_TRACKED&color=111111&style=for-the-badge" alt="Entities Tracked" />
 </p>
 
-  <pre>
-
-                              \\\\\\
+<pre>
+                              \\\\\\\
                            \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
 -------------,-|           |C>   // )\\\\|    .o88b. db   db  .d8b.  db    db  .d8b.  d888888b d888888b d88888b
-           ,','|          /    || ,'/////|   d8P  Y8 88   88 d8' '8b 88    88 d8' '8b '~~88~~' '~~88~~' 88'  
----------,','  |         (,    ||   /////    8P      88ooo88 88ooo88 Y8    8P 88ooo88    88       88    88ooooo 
-         ||    |          \\  ||||//''''|    8b      88~~~88 88~~~88 '8b  d8' 88~~~88    88       88    88~~~~~ 
-         ||    |           |||||||     _|    Y8b  d8 88   88 88   88  '8bd8'  88   88    88       88    88.   
+           ,','|          /    || ,'/////|   d8P  Y8 88   88 d8' '8b 88    88 d8' '8b '~~88~~' '~~88~~' 88'
+---------,','  |         (,    ||   /////    8P      88ooo88 88ooo88 Y8    8P 88ooo88    88       88    88ooooo
+         ||    |          \\  ||||//''''|    8b      88~~~88 88~~~88 '8b  d8' 88~~~88    88       88    88~~~~~
+         ||    |           |||||||     _|    Y8b  d8 88   88 88   88  '8bd8'  88   88    88       88    88.
          ||    |______      ''''\____/ \      'Y88P' YP   YP YP   YP    YP    YP   YP    YP       YP    Y88888P
          ||    |     ,|         _/_____/ \
          ||  ,'    ,' |        /          |                 ___________________________________________
-         ||,'    ,'   |       |         \  |              / \                                           \ 
-_________|/    ,'     |      /           | |             |  | DevChavatte                                | 
-_____________,'      ,',_____|      |    | |              \ |           chavatte@duck.com                | 
-             |     ,','      |      |    | |                |                       chavatte.vercel.app  | 
+         ||,'    ,'   |       |         \  |              / \                                           \
+_________|/    ,'     |      /           | |             |  |                                            |
+_____________,'      ,',_____|      |    | |              \ |      chavatte@duck.com                     |
+             |     ,','      |      |    | |                |                       chavatte.vercel.app  |
              |   ,','    ____|_____/    /  |                |    ________________________________________|___
              | ,','  __/ |             /   |                |  /                                            /
-_____________|','   ///_/-------------/   |                 \_/____________________________________________/ 
-              |===========,'                                                                                  
-			  
-  </pre>
+_____________|','   ///_/-------------/   |                 \_/____________________________________________/
+              |===========,'
+</pre>
 
 # 👁️ DEVCHAVATTE // GHOST_NODE
 
@@ -77,12 +75,11 @@ Integrate AI into practical workflows.
 user@ghost-node:~$ cat /etc/focus
 
 Backend Engineering
-DevSecOps
-SecOps
-Cybersecurity
-Linux / Infrastructure
-Supply Chain Security
-AI Automation
+DevSecOps & SecOps
+Application & Supply Chain Security
+Linux / Self-Hosted Infrastructure
+Detection Engineering & Threat Intelligence
+AI Workflow Automation
 ```
 
 </details>
@@ -99,10 +96,10 @@ backend_engineering:
   - Node.js
   - Express
   - TypeScript
+  - Python (FastAPI)
   - Java
-  - Python
   - REST APIs
-  - authentication
+  - authentication & Zero Trust
   - database integration
   - resilient services
 
@@ -116,12 +113,12 @@ databases:
 security:
   - DevSecOps
   - SecOps
-  - Application Security
+  - Application Security (SAST / SCA / SBOM)
   - Red Team
   - Network Defense
   - Linux Security
   - Infrastructure Hardening
-  - Cyber Deception
+  - Cyber Deception & Honeypots
   - Supply Chain Security
   - Security Automation
   - Detection Engineering
@@ -129,23 +126,20 @@ security:
 
 infrastructure:
   - Linux
-  - Docker
+  - Docker & Portainer
+  - CasaOS & HomeLab Architecture
   - WSL2
-  - AWS
-  - Azure
-  - Shell
-  - PowerShell
-  - Git
-  - GitHub
+  - AWS & Azure
+  - Bash & PowerShell
+  - Git & Git-OPS
 
 ai_and_automation:
   - Generative AI
   - Prompt Engineering
   - AI Automation
-  - Gemini
-  - Claude
+  - Gemini & Claude
+  - Agent-Based Modeling (NetLogo)
   - Workflow Automation
-  - Information Processing
 ```
 
 </details>
@@ -155,28 +149,70 @@ ai_and_automation:
 ## 🛰️ OPERATING PRINCIPLE
 
 ```text
-observe
-   ↓
-analyze
-   ↓
-build
-   ↓
-test
-   ↓
-harden
-   ↓
-automate
-   ↓
-monitor
+observe ──► analyze ──► build ──► test ──► harden ──► automate ──► monitor
 ```
 
-```text
-Software is not finished when it works.
+```diff
+  Software is not finished when it works.
+  It is finished when its behavior, failure modes, and attack surface have been considered.
 
-It is finished when its behavior,
-failure modes and attack surface
-have been considered.
+- buzzwords & theoretical claims
++ working systems, experiments, and measurable implementation
+
+- "trust me"
++ inspect the repository
 ```
+
+---
+
+## 📊 ACTIVITY MATRIX & LIVE TELEMETRY
+
+<details open>
+<summary>🛰️ monitor /ghost_node_activity</summary>
+
+<p align="center">
+  <img
+    src="https://github.com/chavatte/chavatte/raw/output/activity-matrix.svg"
+    alt="GHOST_NODE Activity Matrix"
+  />
+</p>
+
+</details>
+
+<details open>
+<summary>📊 stream /top_security_intel</summary>
+
+```bash
+> connecting to intelligence feed...
+> channel established.
+> retrieving latest signals & active firewall blocklists...
+```
+
+<p align="center">
+  <a href="https://chavatte.vercel.app/articles">
+    <img
+      src="https://api-chavatte-online.fly.dev/svg"
+      alt="Top Security Articles"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://api-chavatte-online.fly.dev/rss">
+    <img
+      src="https://img.shields.io/badge/RSS-SUBSCRIBE-FF6600?style=for-the-badge&logo=rss&logoColor=white"
+      alt="RSS Feed"
+    />
+  </a>
+  <a href="https://api-chavatte-online.fly.dev/firewall-ips">
+    <img
+      src="https://img.shields.io/badge/SOC-FIREWALL_BLOCKLIST-red?style=for-the-badge&logo=security&logoColor=white"
+      alt="Firewall Blocklist"
+    />
+  </a>
+</p>
+
+</details>
 
 ---
 
@@ -187,9 +223,39 @@ have been considered.
 
 ```text
 > indexing highlighted nodes...
-> 07 primary assets discovered
+> 08 primary assets discovered
 > classification: SECURITY / DEVSECOPS / BACKEND / INFRA
 ```
+
+---
+
+### 🌐 Chavatte_NET
+
+**DevSecOps Control Plane & Threat Radar**
+
+```yaml
+node:
+  name: Chavatte_NET
+  role: control_plane + zero_trust + cyber_deception
+
+capabilities:
+  - Zero Trust authentication architecture
+  - real-time Threat Radar telemetry
+  - active honeypot threat detection
+  - automated firewall blocklist generation
+  - centralized SecOps orchestration
+
+stack:
+  - Python
+  - FastAPI
+  - Docker
+
+status: ACTIVE
+```
+
+> DevSecOps control plane combining Zero Trust access, honeypot deception, and real-time threat intelligence feeds.
+
+🔗 **Telemetry:** [🔥 Active Blocklist](https://api-chavatte-online.fly.dev/firewall-ips) · [🌐 Portfolio](https://chavatte.vercel.app/)
 
 ---
 
@@ -207,22 +273,23 @@ capabilities:
   - JavaScript / Node.js ecosystem auditing
   - SAST-based secret detection
   - real-time endpoint monitoring
-  - SBOM generation
+  - CycloneDX SBOM generation
   - automated remediation
   - Git-OPS integration
 
 stack:
   - Electron
   - React
+  - TypeScript
   - Vite
   - Node.js
 
 status: ACTIVE
 ```
 
-> Desktop security tooling focused on local attack surface, JavaScript / Node.js dependency security, endpoint visibility and automated remediation.
+> Desktop security tooling focused on local attack surface, JavaScript / Node.js dependency security, endpoint visibility, and automated remediation.
 
-🔗 **Repository:** https://github.com/chavatte/sentinel-forge
+🔗 **Links:** [💻 Repository](https://github.com/chavatte/sentinel-forge) · [🌐 Case Study](https://chavatte.vercel.app/projects/sentinel-forge)
 
 ---
 
@@ -237,8 +304,7 @@ node:
 
 capabilities:
   - MTTR tracking
-  - hybrid auditing
-  - native + OSV security analysis
+  - hybrid auditing (native + OSV security analysis)
   - Threat Analytics
   - Auto-Governance
   - Docker-native deployment
@@ -247,9 +313,9 @@ capabilities:
 status: ACTIVE
 ```
 
-> Security operations platform focused on Node.js supply-chain protection, operational metrics, threat analytics and security governance.
+> Security operations platform focused on Node.js supply-chain protection, operational metrics, threat analytics, and security governance.
 
-🔗 **Project:** https://chavatte.vercel.app/projects/sentinel-ops
+🔗 **Links:** [💻 Repository](https://github.com/chavatte/sentinel-ops) · [🌐 Case Study](https://chavatte.vercel.app/projects/sentinel-ops)
 
 ---
 
@@ -263,20 +329,18 @@ node:
   role: git_operations + devsecops
 
 capabilities:
-  - Git workflow standardization
+  - Git workflow standardization & multi-repo push
+  - pre-commit secret & security auditing
   - branch management
-  - tactical auditing
-  - operational visibility
-  - panic button
-  - Windows support
-  - Linux support
+  - operational visibility & panic button
+  - cross-platform (PowerShell & Bash)
 
 status: ACTIVE
 ```
 
-> Terminal-oriented DevSecOps tooling for standardized Git workflows and tactical auditing.
+> Terminal-oriented DevSecOps tooling for standardized Git workflows and automated pre-commit security auditing.
 
-🔗 **Project:** https://chavatte.vercel.app/projects/sentinel-git-ops
+🔗 **Links:** [💻 Repository](https://github.com/chavatte/sentinel-git-ops) · [🌐 Case Study](https://chavatte.vercel.app/projects/sentinel-git-ops)
 
 ---
 
@@ -290,19 +354,18 @@ node:
   role: backend_architecture + resilience
 
 capabilities:
-  - hardened authentication
-  - multi-schema database
+  - hardened authentication & prototype pollution defense
+  - multi-schema database architecture
   - stream-based uploads
-  - graceful shutdown
-  - security-oriented architecture
-  - DevOps pipeline
+  - graceful shutdown & rate limiting
+  - DevOps pipeline integration
 
 status: ACTIVE
 ```
 
-> Production-grade Node.js boilerplate focused on security, resilience, authentication, multi-schema data and DevOps.
+> Production-grade Node.js and Express boilerplate focused on backend security, resilience, authentication, and multi-schema data architecture.
 
-🔗 **Project:** https://chavatte.vercel.app/projects/enoch-engine
+🔗 **Links:** [💻 Repository](https://github.com/chavatte/enoch-engine-api) · [🌐 Case Study](https://chavatte.vercel.app/projects/enoch-engine)
 
 ---
 
@@ -318,16 +381,16 @@ node:
 capabilities:
   - inbound parse pipeline
   - phishing detection
-  - Regex-based analysis
-  - Threat Intelligence
+  - Regex-based heuristic analysis
+  - Threat Intelligence enrichment
   - Google Safe Browsing integration
 
 status: ACTIVE
 ```
 
-> SOC-oriented pipeline designed around phishing detection and external threat intelligence.
+> SOC-oriented pipeline designed around automated phishing detection and external threat intelligence enrichment.
 
-🔗 **Project:** https://chavatte.vercel.app/projects/enoch-soc
+🔗 **Links:** [🌐 Case Study](https://chavatte.vercel.app/projects/enoch-soc)
 
 ---
 
@@ -341,19 +404,17 @@ node:
   role: linux_security + environment_automation
 
 capabilities:
-  - Parrot OS Security
+  - Parrot OS Security Edition deployment
   - WSL2 integration
-  - graphical environment
-  - XRDP
-  - remote access
+  - graphical environment via XRDP
   - automated connection workflow
 
 status: ACTIVE
 ```
 
-> Security environment implementation integrating Parrot OS Security with WSL2, XRDP and automation.
+> PowerShell toolkit integrating Parrot OS Security Edition with WSL2, XRDP desktop access, and environment automation.
 
-🔗 **Repository:** https://github.com/chavatte/ParrotOS-WSL-Installer
+🔗 **Links:** [💻 Repository](https://github.com/chavatte/ParrotOS-WSL-Installer)
 
 ---
 
@@ -367,19 +428,18 @@ node:
   role: infrastructure + security_automation
 
 capabilities:
-  - decentralized repository
-  - one-click deployment
-  - DevSecOps tooling
-  - Threat Intelligence tooling
-  - hardened infrastructure tooling
+  - decentralized application repository
+  - one-click container deployment
+  - DevSecOps & Threat Intelligence tooling
+  - hardened self-hosted infrastructure
   - CasaOS integration
 
 status: ACTIVE
 ```
 
-> Security-oriented deployment repository for CasaOS environments and HomeLab infrastructure.
+> Security-oriented container repository for CasaOS environments and self-hosted HomeLab infrastructure.
 
-🔗 **Project:** https://chavatte.vercel.app/projects/chavatte-store
+🔗 **Links:** [🌐 Case Study](https://chavatte.vercel.app/projects/chavatte-store)
 
 </details>
 
@@ -393,12 +453,19 @@ status: ACTIVE
                          │   Engineering Core   │
                          └──────────┬───────────┘
                                     │
+                                    ▼
+                         ┌──────────────────────┐
+                         │    Chavatte_NET      │
+                         │ Control Plane / Zero │
+                         │ Trust / Threat Radar │
+                         └──────────┬───────────┘
+                                    │
              ┌──────────────────────┼──────────────────────┐
              │                      │                      │
              ▼                      ▼                      ▼
       ┌─────────────┐       ┌─────────────┐       ┌──────────────┐
-      │ Enoch       │       │ Sentinel    │       │ ParrotOS     │
-      │ Engine API  │       │ Git-OPS     │       │ Security     │
+      │ Enoch       │       │ Sentinel    │       │ ParrotOS WSL │
+      │ Engine API  │       │ Git-OPS     │       │ & CasaOS     │
       └──────┬──────┘       └──────┬──────┘       └──────────────┘
              │                     │
              ▼                     ▼
@@ -418,19 +485,7 @@ status: ACTIVE
 ```
 
 ```text
-Backend
-   ↓
-Detection
-   ↓
-DevSecOps
-   ↓
-SecOps
-   ↓
-Supply Chain Security
-   ↓
-Endpoint Defense
-   ↓
-Infrastructure Automation
+Backend ──► Detection ──► DevSecOps ──► SecOps ──► Supply Chain ──► Endpoint Defense ──► Infrastructure
 ```
 
 ---
@@ -444,112 +499,22 @@ Infrastructure Automation
 RESEARCH AREAS
 ──────────────
 
-[01] Application Security
-[02] DevSecOps
-[03] SecOps
-[04] Red Team
-[05] Network Defense
-[06] Supply Chain Security
-[07] Threat Intelligence
-[08] Cyber Deception
-[09] Infrastructure Hardening
-[10] Security Automation
-[11] Linux Security
-[12] Detection Engineering
+[01] Application Security          [07] Threat Intelligence
+[02] DevSecOps                     [08] Cyber Deception
+[03] SecOps                        [09] Infrastructure Hardening
+[04] Red Team                      [10] Security Automation
+[05] Network Defense               [11] Linux Security
+[06] Supply Chain Security         [12] Detection Engineering
 ```
 
 ```diff
 + authorized environments only
-+ controlled research
-+ defensive improvement
-+ engineering-oriented experimentation
++ controlled research & PoC validation (DNS Open Resolvers, Race Conditions, Web Beacons)
++ defensive improvement & engineering-oriented experimentation
 + security automation
 
 - unauthorized intrusion
 - uncontrolled exploitation
-```
-
-</details>
-
----
-
-# 📊 ACTIVITY MATRIX
-
-<details open>
-<summary>🛰️ monitor /ghost_node_activity</summary>
-
-<p align="center">
-  <img
-    src="https://github.com/chavatte/chavatte/raw/output/activity-matrix.svg"
-    alt="GHOST_NODE Activity Matrix"
-  />
-</p>
-
-</details>
-
-# 📡 LIVE TELEMETRY
-
-<details open>
-<summary>📊 stream /top_security_intel</summary>
-
-```bash
-> connecting to intelligence feed...
-> channel established.
-> retrieving latest signals...
-> rendering dashboard...
-```
-
-<p align="center">
-  <a href="https://chavatte.vercel.app/articles">
-    <img
-      src="https://api-chavatte-online.fly.dev/svg"
-      alt="Top Security Articles"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://api-chavatte-online.fly.dev/rss">
-    <img
-      src="https://img.shields.io/badge/RSS-SUBSCRIBE-FF6600?style=for-the-badge&logo=rss&logoColor=white"
-      alt="RSS Feed"
-    />
-  </a>
-
-  <a href="https://api-chavatte-online.fly.dev/firewall-ips">
-    <img
-      src="https://img.shields.io/badge/SOC-FIREWALL_BLOCKLIST-red?style=for-the-badge&logo=security&logoColor=white"
-      alt="Firewall Blocklist"
-    />
-  </a>
-</p>
-
-</details>
-
----
-
-# 🧰 ENGINEERING PROFILE
-
-<details>
-<summary>🔍 inspect /engineering_profile</summary>
-
-```yaml
-primary:
-  - Backend Engineering
-  - DevSecOps
-  - Cybersecurity
-  - Linux / Infrastructure
-
-secondary:
-  - SecOps
-  - AI Automation
-  - Web Development
-  - Database Systems
-  - Git / Workflow Automation
-  - Network Engineering
-
-engineering_pattern:
-  design → implement → test → harden → automate → monitor
 ```
 
 </details>
@@ -603,15 +568,15 @@ engineering_pattern:
 
 ### [04] ☕ JAVA // 🐍 PYTHON // ☁️ CLOUD
 
-| Training                               | Verification                                                                                                                 |                                                                                                                           |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Bootcamp — Java Cloud Native           | [🎓 DIO](https://www.dio.me/certificate/G4HAYEZ3) · [💻 GitHub](https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE/) |                                                                                                                           |
-| Bootcamp — Backend com Java            | [🎓 DIO](https://www.dio.me/certificate/A2EPH0V7) · [💻 GitHub](https://github.com/chavatte/LAB-SANTANDER-DIO/)              |                                                                                                                           |
-| Bootcamp — Java + IA                   | [🎓 DIO](https://www.dio.me/certificate/YFRMJLZH)                                                                            |                                                                                                                           |
-| Bootcamp — Python Developer            | [🎓 DIO](https://www.dio.me/certificate/ACXTAMZG) · [💻 GitHub](https://github.com/chavatte/LAB-SUZANO-PYTHON-DEVELOPER)     |                                                                                                                           |
-| Bootcamp — Python AI Backend Developer | [🎓 DIO](https://www.dio.me/certificate/K4CBMZGY) · [💻 GitHub](https://github.com/chavatte/LAB-VIVO-DIO)                    |                                                                                                                           |
-| Santander — Back-End com Python        | [🎓 DIO](https://www.dio.me/certificate/6NDOSYNZ/)                                                                           |                                                                                                                           |
-| Cloud Experience                       | 15h                                                                                                                          | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/Cloud_Experience__Certificado.pdf) |
+| Training                               | Hours | Verification                                                                                                                 |
+| -------------------------------------- | ----: | ---------------------------------------------------------------------------------------------------------------------------- |
+| Bootcamp — Java Cloud Native           |     — | [🎓 DIO](https://www.dio.me/certificate/G4HAYEZ3) · [💻 GitHub](https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE/) |
+| Bootcamp — Backend com Java            |     — | [🎓 DIO](https://www.dio.me/certificate/A2EPH0V7) · [💻 GitHub](https://github.com/chavatte/LAB-SANTANDER-DIO/)              |
+| Bootcamp — Java + IA                   |     — | [🎓 DIO](https://www.dio.me/certificate/YFRMJLZH)                                                                            |
+| Bootcamp — Python Developer            |     — | [🎓 DIO](https://www.dio.me/certificate/ACXTAMZG) · [💻 GitHub](https://github.com/chavatte/LAB-SUZANO-PYTHON-DEVELOPER)     |
+| Bootcamp — Python AI Backend Developer |     — | [🎓 DIO](https://www.dio.me/certificate/K4CBMZGY) · [💻 GitHub](https://github.com/chavatte/LAB-VIVO-DIO)                    |
+| Santander — Back-End com Python        |     — | [🎓 DIO](https://www.dio.me/certificate/6NDOSYNZ/)                                                                           |
+| Cloud Experience                       |   15h | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/Cloud_Experience__Certificado.pdf)    |
 
 ### [05] 🤖 AI // AUTOMATION
 
@@ -625,12 +590,12 @@ engineering_pattern:
 
 ### [06] 🧪 ADDITIONAL TRAINING
 
-| Training                                            | Verification                                                                                                                                                                                    |                                                                                                                         |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Sistemas Complexos e Inteligência Coletiva — UFSCar | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/UFSCAR___Sistemas_Complexos_e_Int.pdf) · [🔬 Project](https://chavatte.vercel.app/projects/market-share) |                                                                                                                         |
-| Computação I — USP                                  | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/USP___Computao_I.pdf)                                                                                    |                                                                                                                         |
-| Desvendando a Blockchain — SENAI                    | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/SENAI___Desvendando_a_BlockChainp.pdf)                                                                   |                                                                                                                         |
-| Cyber Academy 2024 — FEBRABAN                       | 40h                                                                                                                                                                                             | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/FEBRABAN_cyber_academy_2024.pdf) |
+| Training                                            | Hours | Verification                                                                                                                                                                                    |
+| --------------------------------------------------- | ----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sistemas Complexos e Inteligência Coletiva — UFSCar |     — | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/UFSCAR___Sistemas_Complexos_e_Int.pdf) · [🔬 Project](https://chavatte.vercel.app/projects/market-share) |
+| Computação I — USP                                  |     — | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/USP___Computao_I.pdf)                                                                                    |
+| Desvendando a Blockchain — SENAI                    |     — | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/SENAI___Desvendando_a_BlockChainp.pdf)                                                                   |
+| Cyber Academy 2024 — FEBRABAN                       |   40h | [📜 Certificate](https://pub-2ec9f1f75e8149f8bf0fda049fe65aee.r2.dev/certificates/pdfs/FEBRABAN_cyber_academy_2024.pdf)                                                                         |
 
 ```text
 ────────────────────────────────────────────────────────────────
@@ -662,6 +627,12 @@ Learn → Build → Test → Break → Harden → Automate
 <summary>📂 open /legacy_nodes</summary>
 
 ```yaml
+ai_and_research:
+  - Climate Stress Test (Brasil 2026-2030 // NetLogo ABM)
+  - Market Share UFSCar (Complex Systems)
+  - GemDigest
+  - Book Generator AI
+
 backend_and_web:
   - Virtus Bank
   - MyTeacher
@@ -676,11 +647,6 @@ frontend:
   - Reino dos Pokemons
   - Solar System
   - Scroll Parallax
-
-ai_and_research:
-  - GemDigest
-  - Book Generator AI
-  - Market Share UFSCar
 
 mobile:
   - ChavatteLife
@@ -702,93 +668,6 @@ simulation:
 > Legacy does not mean irrelevant.
 >
 > Every previous node is part of the system's evolution.
-
-</details>
-
----
-
-# 🧪 SIMULATION LOG
-
-<details>
-<summary>📋 view /execution_trace</summary>
-
-```bash
-[ghost_mode execution]
-
-scan
-  ↓
-observe
-  ↓
-analyze
-  ↓
-adapt
-  ↓
-execute
-  ↓
-harden
-  ↓
-repeat
-
-no unnecessary noise.
-no unauthorized access.
-only measurable results.
-```
-
-</details>
-
----
-
-# ⚠️ SECURITY NOTICE
-
-<details>
-<summary>🚨 read /security_notice</summary>
-
-```diff
-- buzzwords
-+ working systems
-
-- theoretical claims
-+ experiments and implementation
-
-- unnecessary exposure
-+ controlled visibility
-
-- "trust me"
-+ inspect the repository
-```
-
-</details>
-
----
-
-# 🕶️ HIDDEN ACCESS POINT
-
-<details>
-<summary>🔐 unlock /operator_profile</summary>
-
-```yaml
-operator:
-  name: João Carlos Chavatte
-
-operational_profile:
-  - backend engineering
-  - infrastructure
-  - cybersecurity
-  - DevSecOps
-  - SecOps
-  - AI automation
-
-engineering_style:
-  - build
-  - automate
-  - observe
-  - harden
-  - document
-
-principle:
-  real capability is demonstrated through
-  systems, experiments and working software.
-```
 
 </details>
 
