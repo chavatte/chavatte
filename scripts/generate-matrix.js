@@ -86,7 +86,6 @@ function calculateMetrics(calendar) {
   for (const day of sortedDays) {
     if (day.contributionCount > 0) {
       streak += 1;
-
       longestStreak = Math.max(longestStreak, streak);
     } else {
       streak = 0;
@@ -98,6 +97,8 @@ function calculateMetrics(calendar) {
   for (let i = sortedDays.length - 1; i >= 0; i--) {
     if (sortedDays[i].contributionCount > 0) {
       currentStreak += 1;
+    } else if (i === sortedDays.length - 1) {
+      continue;
     } else {
       break;
     }
@@ -116,9 +117,10 @@ function generateRects(weeks) {
   let rects = "";
 
   weeks.forEach((week, weekIndex) => {
-    week.contributionDays.forEach((day, dayIndex) => {
+    week.contributionDays.forEach((day) => {
+      const dayOfWeek = new Date(`${day.date}T00:00:00Z`).getUTCDay();
       const x = weekIndex * 14;
-      const y = dayIndex * 14;
+      const y = dayOfWeek * 14;
       const fill = getColor(day.contributionCount);
 
       rects += `
@@ -130,9 +132,7 @@ function generateRects(weeks) {
           fill="${fill}"
           rx="2"
         >
-          <title>
-            ${day.date}: ${day.contributionCount} contributions
-          </title>
+          <title>${day.date}: ${day.contributionCount} contributions</title>
         </rect>
       `;
     });
@@ -173,13 +173,11 @@ function generateSVG(calendar, metrics) {
       fill: none;
     }
   </style>
-
   <rect
     width="820"
     height="265"
     fill="#0d1117"
   />
-  <!-- Outer border -->
   <rect
     x="5"
     y="5"
@@ -219,14 +217,13 @@ function generateSVG(calendar, metrics) {
     STATUS: SECURE_LINK
   </text>
   <text
-    x="20"
+    x="41"
     y="52"
     class="text metric"
   >
     [ GITHUB CONTRIBUTION MATRIX ]
   </text>
-  <!-- Contribution Matrix -->
-  <g transform="translate(20, 68)">
+  <g transform="translate(41, 68)">
     ${rects}
   </g>
   <text
